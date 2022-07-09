@@ -95,7 +95,7 @@ span{
     box-shadow: none;
 }
 .main img{
-    width: 350 px;
+    width: 100%;
     border: 7px solid #5e81ac;
     height: auto;
 }
