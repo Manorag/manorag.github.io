@@ -229,8 +229,8 @@ span{
 
 .contenedor-contacto img{
     grid-column: 5/10;
-    width: auto;
-    height: auto;
+    width: 80%;
+    height: 80%;
     bottom: 0;
     border:7px solid #4c566a;
 }
